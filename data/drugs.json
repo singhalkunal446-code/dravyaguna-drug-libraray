@@ -1,0 +1,81 @@
+[
+  {
+    "id": "guduchi",
+    "name": "Guduchi",
+    "sanskrit": "गुडूची (Guḍūcī)",
+    "synonyms": ["Amṛtā", "Chinnodbhavā", "Vatsādani", "Tantrikā"],
+    "commonNames": ["Giloy", "Heart-leaved moonseed"],
+    "botanicalName": "Tinospora cordifolia (Willd.) Hook.f. & Thomson",
+    "family": "Menispermaceae",
+    "habit": "Perennial climbing/straggling shrub",
+    "partUsed": "Stem (Kāṇḍa) primarily",
+    "rasa": ["Tikta", "Kaṣāya"],
+    "guna": ["Laghu", "Snigdha (described in some references)"],
+    "virya": "Uṣṇa",
+    "vipaka": "Madhura",
+    "prabhava": "Viṣaghna (described in classical Ayurvedic pharmacology)",
+    "doshaKarma": "Commonly described as Tridoṣa-śāmaka; practical effect depends on indication, preparation and dose.",
+    "karma": ["Rasāyana", "Jvaraghna", "Dīpana", "Pācana"],
+    "indications": ["Jvara", "Rasāyana use", "Dīpana/Pācana and Āma-related contexts", "Selected Prameha contexts", "Selected Kustha and Śvāsa contexts"],
+    "identification": "Climbing plant with characteristic heart-shaped (cordate) leaves and a succulent green-to-grey-brown stem with prominent warty/tuberculated protuberances.",
+    "spotter": "For practical identification, examine the cordate leaf together with the characteristic succulent, warty stem. Authenticate the botanical species before use because Tinospora species can be confused or substituted in trade.",
+    "formulations": ["Gudūcyādi preparations", "Amṛtāriṣṭa", "Other compound preparations containing Guduchi (composition varies by text/edition)"],
+    "dose": "Use the dose specified for the particular classical formulation or pharmacopoeial preparation; there is no single universal dose for every preparation.",
+    "anupana": "Preparation- and indication-dependent; select according to the relevant classical reference.",
+    "constituents": ["Berberine", "Palmatine", "Jatrorrhizine", "Diterpenoid fractions", "Polysaccharide fractions"],
+    "modern": "Experimental research has investigated immunomodulatory, anti-inflammatory, antioxidant, antimicrobial, hepatoprotective and antidiabetic activities. These findings should not be treated as proof of clinical efficacy for a specific disease.",
+    "safety": "Use authenticated material and an appropriate preparation. Published literature has raised concerns about liver injury reports associated with products sold as Guduchi/Giloy and about species substitution/adulteration. Tinospora crispa is hepatotoxic; botanical authentication is therefore important. The relationship between authentic T. cordifolia and reported autoimmune-like hepatitis remains debated.",
+    "researchGaps": ["Botanical authentication", "Standardization of plant part and extract", "Marker-compound standards", "Dose-response studies", "Pharmacovigilance", "Well-designed clinical trials"],
+    "classicalReferences": "Guduchi is described across classical Ayurvedic Samhitas and Nighantus. Exact śloka numbers should be verified against the specific edition before being entered in the library.",
+    "modernReferences": ["Ayurvedic and pharmacognostic reviews of Tinospora cordifolia", "Recent botanical-authentication and safety literature"],
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tinospora%20cordifolia%20%283052488338%29.jpg",
+        "caption": "Tinospora cordifolia — plant and heart-shaped leaves",
+        "credit": "Dinesh Valke / Wikimedia Commons, CC BY-SA"
+      }
+    ]
+  },
+  {
+    "id": "yashtimadhu",
+    "name": "Yaṣṭimadhu",
+    "sanskrit": "यष्टिमधु (Yaṣṭimadhu)",
+    "synonyms": ["Madhuka", "Yaṣṭimadhu"],
+    "commonNames": ["Liquorice", "Licorice"],
+    "botanicalName": "Glycyrrhiza glabra L.",
+    "family": "Fabaceae",
+    "habit": "Perennial herb",
+    "partUsed": "Root (Mūla)",
+    "rasa": ["Madhura"],
+    "guna": ["Guru", "Snigdha"],
+    "virya": "Śīta",
+    "vipaka": "Madhura",
+    "prabhava": "Classical descriptions emphasize soothing and nourishing actions; verify Prabhava wording against the chosen text/edition.",
+    "doshaKarma": "Predominantly Vāta-Pitta śāmaka; excessive use may increase Kapha.",
+    "karma": ["Kaṇṭhya", "Balya", "Vṛṣya", "Rasāyana"],
+    "indications": ["Kaṇṭha/voice-related use", "Kāsa and respiratory formulations", "Soothing upper-GI contexts", "Rasāyana and Balya contexts"],
+    "identification": "Elongated cylindrical root; yellowish interior; characteristic sweet taste. The plant has pinnate leaves and pale purple/blue flowers.",
+    "spotter": "For practical identification, combine the sweet taste and characteristic root appearance with botanical morphology rather than identifying a commercial root from taste alone.",
+    "formulations": ["Compound preparations containing Yaṣṭimadhu", "Formulation names and compositions should be checked against the specific classical text or pharmacopoeia"],
+    "dose": "Dose is formulation- and preparation-dependent; use the relevant classical or pharmacopoeial monograph rather than a universal dose.",
+    "anupana": "Preparation- and indication-dependent.",
+    "constituents": ["Glycyrrhizin / glycyrrhizic acid", "Flavonoids", "Triterpenoid constituents"],
+    "modern": "Research has investigated gastroprotective, anti-inflammatory, antioxidant and antimicrobial effects. Evidence varies by extract, preparation and study design.",
+    "safety": "Prolonged or high intake of glycyrrhizin-containing liquorice may cause sodium retention, hypokalemia and raised blood pressure. Duration, dose, formulation and patient factors matter.",
+    "researchGaps": ["Standardization of extracts", "Dose-response relationships", "Long-term safety", "Clinical evidence for specific Ayurvedic indications"],
+    "classicalReferences": "Yaṣṭimadhu is described in classical Ayurvedic literature. Exact śloka numbers should be verified against the specific edition before being entered in the library.",
+    "modernReferences": ["Pharmacognostic and pharmacological reviews of Glycyrrhiza glabra", "Safety literature on glycyrrhizin exposure"],
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Glycyrrhiza%20glabra%20%28Licorice%29%20%2828726833031%29.jpg",
+        "caption": "Glycyrrhiza glabra — plant photograph",
+        "credit": "Leonora Enking / Wikimedia Commons, CC BY-SA 2.0"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Liquiritiae%20radix%20suessholzwurzel.jpg",
+        "caption": "Liquorice root material",
+        "credit": "Alcibiades / Wikimedia Commons, public domain"
+      }
+    ]
+  }
+]
